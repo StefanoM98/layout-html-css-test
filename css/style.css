@@ -1,0 +1,65 @@
+/* RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+
+a{
+    color: inherit;
+}
+
+body {
+    padding: 10px;
+}
+
+.header-section {
+    height: 100px;
+    background-color: gold;
+}
+
+.flex{
+    display: flex;
+    gap: 20px;
+}
+
+div.menu {
+    background-color: pink;
+    width: 300px;
+    width: 25%;
+}
+
+.main-section {
+    background-color: bisque;
+    width: 50%;
+}   
+p {
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+div.menu li{
+    background-color: red;
+    margin-top: 10px;    
+    color: white;
+    padding: 15px;
+}
+
+.banner{
+    background-color: yellowgreen;
+    width: 25%;
+    min-height: 300px;
+}
+
+footer{
+    background-color: lightcoral;
+    height: 100px;
+}
+
